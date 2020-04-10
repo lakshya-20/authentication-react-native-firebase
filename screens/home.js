@@ -7,7 +7,7 @@ render() {
 return (
       <View style={styles.container}>
         <Text>
-          Hi {currentUser && currentUser.email}!
+          Hello {currentUser && currentUser.email}!
         </Text>
       </View>
     )
