@@ -1,0 +1,2 @@
+# Email authentication with React Native and Firebase
+## Sample code for  [link](https://medium.com/@bansallakshya94128/email-authentication-with-react-native-and-firebase-bf41d829b9c7 "Email authentication")
